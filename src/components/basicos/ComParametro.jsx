@@ -5,7 +5,7 @@
    
      return (
          <div>
-             <h1>{ props.titulo }</h1>
+             <h2>{ props.titulo }</h2>
              <p>
                  <strong>{ props.aluno } </strong> 
                  tem nota
